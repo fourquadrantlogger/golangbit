@@ -1,6 +1,7 @@
 # golangbit
-golang bit operation
-> golang 的字节 位操作
+>golang bit operation
+
+>golang 的字节 位操作
 
 + GetBits(b byte)([]int)
 
